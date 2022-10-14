@@ -1,5 +1,31 @@
 
 <img src="/c.png" alt="Metrics" width="100%" height = "30%"><br>
-![Metrics](https://metrics.lecoq.io/saulTejeda117?template=classic&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FMexico_City&config.display=large)
+<!-- Profile Stats -->
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulTejeda117&show_icons=true&theme=radical&hide_border=True&card_width=800" />
+  </a>
+</p>
+<!-- Projects -->
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saulTejeda117&repo=Personal-Agenda&show_icons=true&theme=radical&card_width=50&hide_border=True" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saulTejeda117&repo=Multi-Fuctional-Watch&show_icons=true&theme=radical&card_width=50&hide_border=True" />
+  </a>
+</p>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saulTejeda117&repo=YouTube-Downloader&show_icons=true&theme=radical&card_width=50&hide_border=True" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saulTejeda117&repo=Numeric-Puzzle&show_icons=true&theme=radical&card_width=50&hide_border=True" />
+  </a>
+</p>
+<!-- Lang Stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulTejeda117&show_icons=true&theme=radical&card_width=800&hide_border=True&&langs_count=3" />
+  </a>
+</p>
 
 <img src="/b.jpg" alt="Metrics" width="100%" height = "30%">
