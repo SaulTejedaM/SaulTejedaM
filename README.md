@@ -1,11 +1,20 @@
 
-<img src="/c.png" alt="Metrics" width="100%" height = "30%"><br>
+<!--<img src="/c.png" alt="Metrics" width="100%" height = "30%"><br>-->
 <!-- Profile Stats -->
+# 📈  Statistics
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulTejeda117&show_icons=true&theme=radical&hide_border=True&card_width=800" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulTejeda117&show_icons=true&theme=radical&card_width=800&hide_border=True&&langs_count=3" />
+  </a>
+</p>
+
+# ⚙️  Projects 
 <!-- Projects -->
 <p align="center">
     <a href="https://github.com/saulTejeda117/Personal-Agenda">
@@ -22,10 +31,6 @@
   </a>
 </p>
 <!-- Lang Stats -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulTejeda117&show_icons=true&theme=radical&card_width=800&hide_border=True&&langs_count=3" />
-  </a>
-</p>
+
 
 <img src="/b.jpg" alt="Metrics" width="100%" height = "30%">
