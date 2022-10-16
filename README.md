@@ -4,14 +4,10 @@
 # 📈  Statistics
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulTejeda117&show_icons=true&theme=radical&hide_border=True&card_width=800" />
-  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulTejeda117&show_icons=true&theme=radical&card_width=750&hide_border=True&langs_count=5&layout=compact" />
-  </a>
 </p>
 
 # ⚙️  Projects 
