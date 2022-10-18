@@ -1,6 +1,8 @@
 
 <!--<img src="/c.png" alt="Metrics" width="100%" height = "30%"><br>-->
 <!-- Profile Stats -->
+# 📋 About
+
 # 📈  Statistics
 
 <p align="center">
