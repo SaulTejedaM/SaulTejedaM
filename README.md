@@ -6,10 +6,10 @@
 # 📈  Statistics
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saulTejeda117&show_icons=true&theme=radical&hide_border=True&card_width=800" />
+    <img alt="SaulTejeda117 Metrics" align="center" src="https://github-readme-stats.vercel.app/api?username=saulTejeda117&show_icons=true&theme=radical&hide_border=True&card_width=800" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulTejeda117&show_icons=true&theme=radical&card_width=750&hide_border=True&langs_count=5&layout=compact" />
+    <img alt="SaulTejeda117 Metrics" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulTejeda117&show_icons=true&theme=radical&card_width=750&hide_border=True&langs_count=5&layout=compact" />
 </p>
 
 # ⚙️  Projects 
@@ -31,4 +31,4 @@
 <!-- Lang Stats -->
 
 
-<img src="/b.jpg" alt="Metrics" width="100%" height = "30%">
+<img src="/b.jpg" alt="I <3 Tetris" width="100%" height = "30%">
