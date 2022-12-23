@@ -2,24 +2,7 @@
 <!--<img src="/c.png" alt="Metrics" width="100%" height = "30%"><br>-->
 <!-- Profile Stats -->
 # 📋 About
-<br> 
-<p align="center">
-    <a href="http://www.saultejeda.com">
-    <img align="center" src="http://img.shields.io/badge/-Portfolio-F6F6F6?style=for-the-badge&logo=notion&logoColor=black&logoWidth=40&link=http://www.saultejeda.com" />
-    </a>
-    <a href="https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=40&link=https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/"/>
-    </a>
-   <a href="http://www.saultejeda.com/src/Docs/SRTM_CV.pdf"> 
-    <img align="center" src="http://img.shields.io/badge/-Curriculum-ffff45?style=for-the-badge&logo=notion&logoColor=black&logoWidth=40&link=http://www.saultejeda.com/src/Docs/SRTM_CV.pdf"/>
-    </a>
-    <!-- Lang Stats
-    <a href="https://www.instagram.com/saultejedam/">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=40&link=https://www.instagram.com/saultejedam/"/>
-        </a>
-    --> 
-</p>
-<br> 
+
 
 
 
@@ -54,7 +37,23 @@
 </p>
 
 # 🌐 Contact Info
-
-<br>
+<br> 
+<p align="center">
+    <a href="http://www.saultejeda.com">
+    <img align="center" src="http://img.shields.io/badge/-Portfolio-F6F6F6?style=for-the-badge&logo=notion&logoColor=black&logoWidth=40&link=http://www.saultejeda.com" />
+    </a>
+    <a href="https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=40&link=https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/"/>
+    </a>
+   <a href="http://www.saultejeda.com/src/Docs/SRTM_CV.pdf"> 
+    <img align="center" src="http://img.shields.io/badge/-Curriculum-ffff45?style=for-the-badge&logo=notion&logoColor=black&logoWidth=40&link=http://www.saultejeda.com/src/Docs/SRTM_CV.pdf"/>
+    </a>
+    <!-- Lang Stats
+    <a href="https://www.instagram.com/saultejedam/">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=40&link=https://www.instagram.com/saultejedam/"/>
+        </a>
+    --> 
+</p>
+<br> 
     
 <img src="/b.jpg" alt="I <3 Tetris" width="100%" height = "30%">
