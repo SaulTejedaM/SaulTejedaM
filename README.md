@@ -32,8 +32,7 @@
     <a href="https://github.com/saulTejeda117/YouTube-Downloader">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saulTejeda117&repo=YouTube-Downloader&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
     <a href="https://github.com/saulTejeda117/Numeric-Puzzle">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saulTejeda117&repo=Numeric-Puzzle&show_icons=true&theme=radical&card_width=50&hide_border=True" />
-  </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/saulTejeda117/Numeric-Puzzle&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
 </p>
 
 # 🌐 Contact Info
