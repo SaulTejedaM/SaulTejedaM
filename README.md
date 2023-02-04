@@ -1,7 +1,7 @@
 
 <!--<img src="/c.png" alt="Metrics" width="100%" height = "30%"><br>-->
 <!-- Profile Stats -->
-# 📋 About
+# 📋 About Me
 
 👋 Hello There! My name is Saúl Tejeda, IT Engineer student at Universidad de Gudalajara.My current interests include 
 * 🤖 Machine learning techniques
