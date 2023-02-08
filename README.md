@@ -3,7 +3,7 @@
 <!-- Profile Stats -->
 # 📋 About Me
 
-👋 Hello There! My name is Saúl Tejeda, IT Engineer student at Universidad de Gudalajara.My current interests include 
+👋 Hello There! My name is Saúl Tejeda, IT Engineer student at Universidad de Gudalajara. My current interests include 
 * 🤖 Machine learning techniques
 * 🖥️ Desktop applications development using Python
 * 📶 IoT applications
