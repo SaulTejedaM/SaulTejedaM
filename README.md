@@ -25,7 +25,7 @@
 <p align="center">
     <a href="https://github.com/saulTejeda117/Tkinter-Projects">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Tkinter-Projects&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
-    <a href="https://github.com/saulTejeda117/Multi-Fuctional-Watch">
+    <a href="https://github.com/saulTejeda117/Tkinter-Projects/tree/main/projects/Multi-Fuctional-Watch">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Multi-Fuctional-Watch&show_icons=true&theme=radical&card_width=50&hide_border=True" />
 
   </a>
