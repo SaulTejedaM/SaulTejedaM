@@ -19,9 +19,9 @@
 <p align="center">
     <img alt="SaulTejeda117 Metrics" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saulTejeda117&show_icons=true&theme=radical&card_width=750&hide_border=True&langs_count=9&layout=compact" />
 </p>
-
-# ⚙️  Projects 
 <!-- Projects -->
+<!-- # ⚙️  Projects 
+
 <p align="center">
     <a href="https://github.com/saulTejeda117/Tkinter-Projects">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Tkinter-Projects&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
@@ -37,7 +37,8 @@
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Numeric-Puzzle&show_icons=true&theme=radical&card_width=50&hide_border=True" />
   </a>
 </p>
-
+ -->
+ 
 # 🌐 Contact Info
 <br> 
 <p align="center">
