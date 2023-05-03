@@ -48,7 +48,7 @@
     <a href="https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=40&link=https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/"/>
     </a>
-   <a href="http://www.saultejeda.com/src/Docs/SRTM_CV.pdf" download="SRTM_CV.pdf" target="_blank" rel="noopener">
+   <a href="http://www.saultejeda.com/src/Docs/SRTM_CV.pdf" download="SRTM_CV.pdf" type="application/octet-stream">
     <img align="center" src="http://img.shields.io/badge/-Curriculum-ffff45?style=for-the-badge&logo=notion&logoColor=black&logoWidth=40" alt="Descargar mi curriculum">
 </a>
     <!-- Lang Stats
