@@ -20,24 +20,23 @@
     <img alt="SaulTejeda117 Metrics" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saulTejeda117&show_icons=true&theme=radical&card_width=750&hide_border=True&langs_count=9&layout=compact" />
 </p>
 <!-- Projects -->
-<!-- # ⚙️  Projects 
+
+# ⚙️  Projects 
 
 <p align="center">
     <a href="https://github.com/saulTejeda117/Tkinter-Projects">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Tkinter-Projects&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
-    <a href="https://github.com/saulTejeda117/Tkinter-Projects/tree/main/projects/Multi-Fuctional-Watch">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Multi-Fuctional-Watch&show_icons=true&theme=radical&card_width=50&hide_border=True" />
-
+    <a href="https://github.com/saulTejeda117/OrganizApp">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=OrganizApp&show_icons=true&theme=radical&card_width=50&hide_border=True" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/saulTejeda117/YouTube-Downloader">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=YouTube-Downloader&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
     <a href="https://github.com/saulTejeda117/Multi-Fuctional-Watch">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Numeric-Puzzle&show_icons=true&theme=radical&card_width=50&hide_border=True" />
   </a>
-</p>
- -->
+</p> -->
  
 # 🌐 Contact Info
 <br> 
