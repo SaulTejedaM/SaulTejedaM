@@ -35,13 +35,13 @@ Machine learning techniques to data analysis. Additionally, I have experience in
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=OrganizApp&show_icons=true&theme=radical&card_width=50&hide_border=True" />
   </a>
 </p>
-<!-- <p align="center">
-    <a href="https://github.com/saulTejeda117/YouTube-Downloader">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=YouTube-Downloader&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
-    <a href="https://github.com/saulTejeda117/Multi-Fuctional-Watch">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Numeric-Puzzle&show_icons=true&theme=radical&card_width=50&hide_border=True" />
+<p align="center">
+    <a href="https://github.com/saulTejeda117/Desafio-Ciencia-de-Datos-3080127">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Desafio-Ciencia-de-Datos-3080127&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
+    <a href="https://github.com/saulTejeda117/Smart-Inbox">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Smart-Inbox&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
   </a>
-</p> -->
+</p>
  
 # 🌐 Contact Info
 <br> 
