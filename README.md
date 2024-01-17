@@ -38,8 +38,8 @@ Machine learning techniques to data analysis. Additionally, I have experience in
 <p align="center">
     <a href="https://github.com/saulTejeda117/Desafio-Ciencia-de-Datos-3080127">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Desafio-Ciencia-de-Datos-3080127&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
-    <a href="https://github.com/saulTejeda117/Smart-Inbox">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Smart-Inbox&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
+    <a href="https://github.com/saulTejeda117/Steam-Data-Analyzer">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=saulTejeda117&repo=Steam-Data-Analyzer&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
   </a>
 </p>
  
