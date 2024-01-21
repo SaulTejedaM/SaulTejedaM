@@ -47,22 +47,17 @@ Machine learning techniques to data analysis. Additionally, I have experience in
 <br> 
 <p align="center">
     <a href="http://www.saultejeda.com" target="_blank">
-    <img align="center" src="http://img.shields.io/badge/-Portfolio-F6F6F6?style=for-the-badge&logo=notion&logoColor=black&logoWidth=80&link=http://www.saultejeda.com" />
+        <img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/-Portfolio-F6F6F6?style=for-the-badge&logo=notion&logoColor=black&logoWidth=80" />
     </a>
-    <a href="http://www.saultejeda.com">
-    <img align="center" src="http://img.shields.io/badge/-Replit-FF6600?style=for-the-badge&logo=replit&logoColor=white&logoWidth=80&link=https://replit.com/@SaulTejeda1" />
+    <a href="https://replit.com/@SaulTejeda" target="_blank">
+        <img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/-Replit-FF6600?style=for-the-badge&logo=replit&logoColor=white&logoWidth=80"/>
     </a>
     <a href="https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=80&link=https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/"/>
+        <img width = "200px" height = "30px" align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=80"/>
     </a>
-   <a href="http://www.saultejeda.com/src/Docs/SRTM_CV.pdf" download="SRTM_CV.pdf" type="application/octet-stream" target="_blank">
-    <img align="center" src="http://img.shields.io/badge/-Curriculum-ffff45?style=for-the-badge&logo=notion&logoColor=black&logoWidth=80" alt="Descargar mi curriculum">
-</a>
-    <!-- Lang Stats
-    <a href="https://www.instagram.com/saultejedam/">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=40&link=https://www.instagram.com/saultejedam/"/>
-        </a>
-    --> 
+    <a href="https://github.com/saulTejeda117/Portfolio-2024/blob/main/Portafolio2024/src/SaulRafaelTejedaMilianResume.pdf?raw=true" download="SRTM_CV.pdf" type="application/octet-stream" target="_blank">
+        <img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/Curriculum-ffff45?style=for-the-badge&logo=notion&logoColor=black&logoWidth=80" alt="Descargar mi curriculum">
+    </a>
 </p>
 <br> 
     
