@@ -4,7 +4,7 @@
 # 📋 About Me
 
 <p align='justify'>
-👋 Hello There! My name is Saúl Tejeda, an IT Engineering student at the Universidad de Guadalajara. I enjoy learning about new tools and techniques. My current interests include:
+👋 Hello There! My name is Saúl Tejeda, a Software Engineer at KMS Technology in Guadalajara. I enjoy learning about new tools and techniques. My current interests include:
 </p> 
 
 * 🤖 Machine learning techniques
