@@ -8,7 +8,7 @@
 </p> 
 
 * 🤖 Machine learning techniques
-* 🖥️ Desktop applications development using Python
+* 🖥️ Desktop applications development
 * 📶 IoT applications
 <!-- 
 Machine learning techniques to data analysis. Additionally, I have experience in desktop application development using Python, and enjoy building useful desktop applications with this programming language. -->
