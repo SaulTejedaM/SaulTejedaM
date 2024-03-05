@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Profile!;My name is Saúl Tejeda;Data Science Enthusiast;WEB Developer;Python Developer &font=Courier New%20Code&center=true&width=380&height=80&duration=4000&pause=1000" alt="Profile Presentation">
+</p>
 
-<!--<img src="/c.png" alt="Metrics" width="100%" height = "30%"><br>-->
-<!-- Profile Stats -->
 # 📋 About Me
 
 <p align='justify'>
@@ -46,18 +47,11 @@ Machine learning techniques to data analysis. Additionally, I have experience in
 # 🌐 Contact Info
 <br> 
 <p align="center">
-    <a href="http://www.saultejeda.com" target="_blank">
-        <img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/-Portfolio-F6F6F6?style=for-the-badge&logo=notion&logoColor=black&logoWidth=80" />
-    </a>
-    <a href="https://replit.com/@SaulTejeda" target="_blank">
-        <img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/-Replit-FF6600?style=for-the-badge&logo=replit&logoColor=white&logoWidth=80"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/" target="_blank">
-        <img width = "200px" height = "30px" align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=80"/>
-    </a>
-    <a href="https://github.com/saulTejeda117/Portfolio-2024/blob/main/Portafolio2024/src/SaulRafaelTejedaMilianResume.pdf?raw=true" download="SRTM_CV.pdf" type="application/octet-stream" target="_blank">
-        <img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/Curriculum-ffff45?style=for-the-badge&logo=notion&logoColor=black&logoWidth=80" alt="Descargar mi curriculum">
-    </a>
+    <a href="http://www.saultejeda.com" target="_blank"><img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/Portfolio-F6F6F6?style=for-the-badge&logo=notion&logoColor=black&logoWidth=80"/></a>
+<!-- <a href="https://replit.com/@SaulTejeda" target="_blank"><img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/Replit-FF6600?style=for-the-badge&logo=replit&logoColor=white&logoWidth=80"/></a>-->
+    <a href="https://www.linkedin.com/in/sa%C3%BAl-rafael-tejeda-mili%C3%A1n-924a59253/" target="_blank"><img width = "200px" height = "30px" align="center" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=80"/></a>
+    <a href="https://www.credly.com/users/saul-rafael-tejeda-milian/badges" target="_blank"><img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/Credly-FF6600?style=for-the-badge&logo=credly&logoColor=black&logoWidth=80"></a>
+    <a href="https://github.com/saulTejeda117/Portfolio-2024/blob/main/Portafolio2024/src/SaulRafaelTejedaMilianResume.pdf?raw=true" download="SRTM_CV.pdf" type="application/octet-stream" target="_blank"><img width = "200px" height = "30px" align="center" src="http://img.shields.io/badge/Curriculum-ffff45?style=for-the-badge&logo=notion&logoColor=black&logoWidth=80" alt="Descargar mi curriculum"></a>
 </p>
 <br> 
     
