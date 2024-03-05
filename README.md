@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Profile!;My name is Saúl Tejeda;Data Science Enthusiast;WEB Developer;Python Developer &font=Courier New%20Code&center=true&width=380&height=80&duration=4000&pause=1000" alt="Profile Presentation">
-</p>
+</p>-->
 
 # 📋 About Me
 
