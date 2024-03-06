@@ -1,16 +1,12 @@
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Profile!;My name is Saúl Tejeda;Data Science Enthusiast;WEB Developer;Python Developer &font=Courier New%20Code&center=true&width=380&height=80&duration=4000&pause=1000" alt="Profile Presentation">
-</p>-->
-
 # 📋 About Me
 
 <p align='justify'>
-👋 Hello There! My name is Saúl Tejeda, a Software Engineer at KMS Technology in Guadalajara. I enjoy learning about new tools and techniques. My current interests include:
+👋 Hello! My name is Saúl Tejeda a Software Developer at KMS Technology in Guadalajara. I have an insterest on machine learning and data science focus on data extraction, visualization, and analysis. I use different programming languages such as Python, Javascript, and C#.
 </p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my GitHub Profile!; My Name is Saúl Tejda;Software Developer; Data Science Enthusiast;Visit my Portfolio&font=Courier New%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Profile Presentation">
+</p>
 
-* 🤖 Machine learning techniques
-* 🖥️ Desktop applications development
-* 📶 IoT applications
 <!-- 
 Machine learning techniques to data analysis. Additionally, I have experience in desktop application development using Python, and enjoy building useful desktop applications with this programming language. -->
 
