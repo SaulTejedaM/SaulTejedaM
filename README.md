@@ -26,18 +26,18 @@
 # ⚙️  Projects 
 
 <p align="center">
-    <a href="https://github.com/saulTejeda117/Tkinter-Projects">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=Tkinter-Projects&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
-    <a href="https://github.com/saulTejeda117/OrganizApp">
+   <a href="https://github.com/SaulTejedaM/Steam-Data-Analyzer">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=Steam-Data-Analyzer&show_icons=true&theme=radical&card_width=50&hide_border=True"/></a>
+  </a>
+    <a href="https://github.com/SaulTejedaM/OrganizApp">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=OrganizApp&show_icons=true&theme=radical&card_width=50&hide_border=True" />
   </a>
 </p>
 <p align="center">
     <a href="https://github.com/SaulTejedaM/Desafio-Ciencia-de-Datos-3080127">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=Desafio-Ciencia-de-Datos-3080127&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
-    <a href="https://github.com/saulTejeda117/Steam-Data-Analyzer">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=Steam-Data-Analyzer&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
-  </a>
+       <a href="https://github.com/SaulTejedaM/Tkinter-Projects">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=Tkinter-Projects&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
 </p>
  
 # 🌐 Contact Info
