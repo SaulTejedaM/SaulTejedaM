@@ -36,8 +36,8 @@
 <p align="center">
     <a href="https://github.com/SaulTejedaM/Desafio-Ciencia-de-Datos-3080127">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=Desafio-Ciencia-de-Datos-3080127&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
-       <a href="https://github.com/SaulTejedaM/Tkinter-Projects">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=Tkinter-Projects&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
+       <a href="https://github.com/SaulTejedaM/Tkinter-Aplications">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SaulTejedaM&repo=Tkinter-Aplications&show_icons=true&theme=radical&card_width=50&hide_border=True" /></a>
 </p>
  
 # 🌐 Contact Info
