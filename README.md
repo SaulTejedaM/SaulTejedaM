@@ -19,7 +19,7 @@
     <img alt="SaulTejeda117 Metrics" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaulTejedaM&show_icons=true&theme=radical&hide_border=True&card_width=800" />
 </p>
 <p align="center">
-    <img alt="SaulTejeda117 Metrics" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaulTejedaM&show_icons=true&theme=radical&card_width=800&hide_border=True&langs_count=9&layout=compact" />
+    <img alt="SaulTejeda117 Metrics" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaulTejedaM&show_icons=true&theme=radical&card_width=800&hide_border=True&langs_count=9&layout=compact&hide=html" />
 </p>
 <!-- Projects -->
 
