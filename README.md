@@ -6,7 +6,7 @@
 
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my GitHub Profile!; My Name is Saúl Tejda;Software Developer; Data Science Enthusiast;Visit my Portfolio&font=Courier New%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Profile Presentation">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my GitHub Profile!; My Name is Saúl Tejeda;Software Developer; Data Science Enthusiast;Visit my Portfolio&font=Courier New%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Profile Presentation">
 </p>
 
 
