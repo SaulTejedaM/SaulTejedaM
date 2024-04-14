@@ -20,13 +20,16 @@
 
 
 # 📈  Statistics
-
 <p align="center">
-      <img alt="SaulTejedaM Github Metrics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaulTejedaM&show_icons=true&theme=radical&card_width=935&hide_border=True&langs_count=9&layout=compact&hide=html">
+  <img alt="SaulTejedaM Github Metrics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaulTejedaM&show_icons=true&theme=radical&hide_border=True&card_width=800"/>
 </p>
+<p align="center">
+      <img alt="SaulTejedaM Github Metrics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaulTejedaM&show_icons=true&theme=radical&card_width=800&hide_border=True&langs_count=9&layout=compact&hide=html">
+</p>
+
 <div align="center" style="display: flex;">
-    <img alt="SaulTejedaM Leetcode Metrics" src="https://leetcode-stats.vercel.app/api?username=SaulTejedaM&theme=Dark&width=400" style="margin-right: 20px;">
-    <img alt="SaulTejedaM Github Metrics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaulTejedaM&show_icons=true&theme=radical&hide_border=True&card_width=400"/>
+    <img alt="SaulTejedaM Leetcode Metrics" src="https://leetcode-stats.vercel.app/api?username=SaulTejedaM&theme=Dark">
+    <img alt="SaulTejedaM Github Metrics" src="https://streak-stats.demolab.com/?user=SaulTejedaM&theme=dark&background=181414&hide_border=true&card_width=200px"/>
 </div>
 <!-- Projects -->
 
