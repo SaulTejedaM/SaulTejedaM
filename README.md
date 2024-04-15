@@ -1,16 +1,16 @@
 # 📋 About Me
 
 <p align='justify'>
-👋 Hello! My name is Saúl Tejeda M a Software Developer at KMS Technology in Guadalajara. I have an insterest on machine learning and data science focus on data extraction, visualization, and analysis. I use different programming languages such as Python, Javascript, and C#.
+👋 Hello! My name is Saúl Tejeda M a software developer from Guadalajara, MX. I have an insterest on machine learning and data science focus on data extraction, visualization, and analysis. I use different programming languages such as Python, Javascript, and C#.
 </p> 
 
 
-<!-- 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my GitHub Profile!; My Name is Saúl Tejeda;Software Developer; Data Science Enthusiast;Visit my Portfolio&font=Courier New%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Profile Presentation">
 </p>
 
-
+<!-- 
 
   ![Travis](https://steam-stat.vercel.app/api?profileName=saultejm) 
 
