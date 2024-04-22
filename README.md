@@ -31,6 +31,16 @@
     <img alt="SaulTejedaM Leetcode Metrics" src="https://leetcode-stats.vercel.app/api?username=SaulTejedaM&theme=Dark">
     <img alt="SaulTejedaM Github Metrics" src="https://streak-stats.demolab.com/?user=SaulTejedaM&theme=dark&background=181414&hide_border=true&card_width=200px"/>
 </div>
+
+<div align="center" style="display: flex; width:800;">
+  <img alt="SaulTejedaM Github Metrics" src="https://github-readme-activity-graph.vercel.app/graph?username=SaulTejedaM&theme=github-compact&background=181414&hide_border=true&width=800px"/>
+</div>
+
+
+
+
+
+
 <!-- Projects -->
 
 # ⚙️  Projects 
