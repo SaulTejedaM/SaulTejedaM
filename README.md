@@ -41,7 +41,37 @@
 
 
 
-<!-- Projects -->
+<!-- Projects 
+
+/*
+https://youtu.be/l08Zw-RY__Q?si=riF7TTWx0_ZKxvLP
+
+https://youtu.be/IKmPci5VXz0?si=r3xwBIpeRsi4RTFk
+
+https://youtu.be/RloNDjoG-cQ?si=l_LlJ39oSwHao2wQ
+
+https://youtu.be/8JW6qzPCkE8?si=i9GaJgJkVqQV9BE2
+
+https://youtu.be/NAG98gpC8Hw?si=VRpQ7wNdCWC_DyR4
+
+https://youtu.be/zjpSX6fCPDc?si=yT7qq4_InnkhnBR2
+
+https://youtu.be/40dNQf2x9H8?si=WemUgeIvvjGst5-Y
+
+https://youtu.be/H5v3kku4y6Q?si=APkaG_8Y-KPGof7_
+
+
+https://youtu.be/FL7ktlvZnH8?si=RmcfF4EXXIg6qlGb
+
+https://youtu.be/xAWDqdpOlu8?si=eGcIR_og4WUuqc2Y
+
+https://youtu.be/GCdwKhTtNNw?si=6egRRJCKpkIh317I
+
+https://youtu.be/yZ8mJgcsbw8?si=2GxAD6GHwH1MwOFs
+*/
+
+
+-->
 
 # ⚙️  Projects 
 
@@ -74,29 +104,3 @@
     
 <img src="/b.jpg" alt="I <3 Tetris" width="100%" height = "30%">
 
-/*
-https://youtu.be/l08Zw-RY__Q?si=riF7TTWx0_ZKxvLP
-
-https://youtu.be/IKmPci5VXz0?si=r3xwBIpeRsi4RTFk
-
-https://youtu.be/RloNDjoG-cQ?si=l_LlJ39oSwHao2wQ
-
-https://youtu.be/8JW6qzPCkE8?si=i9GaJgJkVqQV9BE2
-
-https://youtu.be/NAG98gpC8Hw?si=VRpQ7wNdCWC_DyR4
-
-https://youtu.be/zjpSX6fCPDc?si=yT7qq4_InnkhnBR2
-
-https://youtu.be/40dNQf2x9H8?si=WemUgeIvvjGst5-Y
-
-https://youtu.be/H5v3kku4y6Q?si=APkaG_8Y-KPGof7_
-
-
-https://youtu.be/FL7ktlvZnH8?si=RmcfF4EXXIg6qlGb
-
-https://youtu.be/xAWDqdpOlu8?si=eGcIR_og4WUuqc2Y
-
-https://youtu.be/GCdwKhTtNNw?si=6egRRJCKpkIh317I
-
-https://youtu.be/yZ8mJgcsbw8?si=2GxAD6GHwH1MwOFs
-*/
