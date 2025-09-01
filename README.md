@@ -78,6 +78,13 @@ https://youtu.be/uuWY5MxSuhg?si=1G-r4vjWh462LoH8
 
 https://youtu.be/G1zkXdqcajk?si=QPOBIVFsU_OWG1LX
 
+
+
+-> https://youtu.be/_EnKedA1mYo?si=3Y6KKtqn9ahhAzY8
+
+https://youtu.be/1coIEkGUd74?si=uI0kG8_i_CdhYFsj
+
+https://www.youtube.com/live/g3vbKsbx87I?si=tDKdKh4p5uyncay6
 -->
 
 # ⚙️  Projects 
