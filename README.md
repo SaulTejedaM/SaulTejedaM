@@ -15,6 +15,20 @@
   ![Travis](https://steam-stat.vercel.app/api?profileName=saultejm) 
 
 --https://youtu.be/L1P01vJCI2k?si=RUb3SdG94dH4xtNj
+
+
+w--https://youtu.be/-FrcXuMnVe8?si=k1Qaat6E8UgpQVQ5
+--https://youtu.be/8yn3ViE6mhY?si=LzB5Ek0Of7r75D6k
+
+--https://youtu.be/3XCVM3G3pns?si=GCiwQ7EEPo4kVooT
+
+--https://youtu.be/ykG5nL0yuGs?si=Fs5q2ouHzAFmDHtd
+
+--https://youtu.be/aXhjp85UNJI?si=NwyKRYFFSrpqA11v
+
+--https://youtu.be/ztzkz0r1RG8?si=_nmGsNfeRfPJiLly
+
+--https://youtu.be/XTJmYOKD2Pg?si=1heXrKLK2Mc05_os
 -->
 
 
